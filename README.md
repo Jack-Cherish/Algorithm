@@ -1,69 +1,35 @@
 # Algorithm
 
-* ¹óÓĞºã£¬ºÎ±ØÈı¸üÆğÎå¸üË¯£»×îÎŞÒæ£¬Ö»ÅÂÒ»ÈÕ±©Ê®º®¡£<br>
+* è´µæœ‰æ’ï¼Œä½•å¿…ä¸‰æ›´èµ·äº”æ›´ç¡ï¼›æœ€æ— ç›Šï¼Œåªæ€•ä¸€æ—¥æš´åå¯’ã€‚<br>
 
-* [ÎÒµÄ¸öÈËÍøÕ¾](http://cuijiahua.com/ "ĞüÍ£ÏÔÊ¾")<br>
+* [æˆ‘çš„ä¸ªäººç½‘ç«™](http://cuijiahua.com/ "æ‚¬åœæ˜¾ç¤º")<br>
 
-* Ñ§Ï°½»Á÷Èº¡¾328127489¡¿<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e70f3fcff3761450fda9b43eadc1910dac308a962ef9e3e87941cd2c681c4bb4"><img border="0" src="https://github.com/Jack-Cherish/Pictures/blob/master/qqgroup.png" alt="Coder" title="Coder"></a><br>
+* å­¦ä¹ äº¤æµç¾¤ã€328127489ã€‘<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e70f3fcff3761450fda9b43eadc1910dac308a962ef9e3e87941cd2c681c4bb4"><img border="0" src="https://github.com/Jack-Cherish/Pictures/blob/master/qqgroup.png" alt="Coder" title="Coder"></a><br>
 
-* Ëã·¨Ñ§Ï°£¬³ÖĞø¸üĞÂÖĞ£¡<br>
+* ç®—æ³•å­¦ä¹ ï¼ŒæŒç»­æ›´æ–°ä¸­ï¼<br>
 
-## °Ë´óÅÅĞòËã·¨
+## å…«å¤§æ’åºç®—æ³•
 
-* Sort Algorithm.cpp - C++°æ<br>
+* Sort Algorithm.cpp - C++ç‰ˆ<br>
 
-* Sort Algorithm.py - Python°æ<br>
+* Sort Algorithm.py - Pythonç‰ˆ<br>
 
-* [³ÌĞòÔ±ÄÚ¹¦£º°Ë´óÅÅĞòËã·¨](http://cuijiahua.com/blog/2018/01/alogrithm_9.html "ĞüÍ£ÏÔÊ¾")<br>
+* [ç¨‹åºå‘˜å†…åŠŸï¼šå…«å¤§æ’åºç®—æ³•](http://cuijiahua.com/blog/2018/01/alogrithm_9.html "æ‚¬åœæ˜¾ç¤º")<br>
 
-	![image](http://cuijiahua.com/wp-content/uploads/2018/01/algorithm_9_1.png)
+### åŸç†è¯´æ˜ï¼š
 
-### Ô­ÀíËµÃ÷£º
+* [æ’åºï¼ˆ1ï¼‰ï¼šå†’æ³¡æ’åº](http://cuijiahua.com/blog/2017/12/algorithm_1.html "æ‚¬åœæ˜¾ç¤º")<br>
 
-* [ÅÅĞò£¨1£©£ºÃ°ÅİÅÅĞò](http://cuijiahua.com/blog/2017/12/algorithm_1.html "ĞüÍ£ÏÔÊ¾")<br>
+* [æ’åºï¼ˆ2ï¼‰ï¼šç›´æ¥æ’å…¥æ’åº](http://cuijiahua.com/blog/2017/12/algorithm_2.html "æ‚¬åœæ˜¾ç¤º")<br>
 
-	¶¯Ì¬Ê¾ÒâÍ¼£º
-	
-	![image](http://cuijiahua.com/wp-content/uploads/2017/12/algorithm_1_0.gif)
+* [æ’åºï¼ˆ3ï¼‰ï¼šå¸Œå°”æ’åº](http://cuijiahua.com/blog/2017/12/algorithm_3.html "æ‚¬åœæ˜¾ç¤º")<br>
 
-* [ÅÅĞò£¨2£©£ºÖ±½Ó²åÈëÅÅĞò](http://cuijiahua.com/blog/2017/12/algorithm_2.html "ĞüÍ£ÏÔÊ¾")<br>
+* [æ’åºï¼ˆ4ï¼‰ï¼šå¿«é€Ÿæ’åº](http://cuijiahua.com/blog/2017/12/algorithm_4.html "æ‚¬åœæ˜¾ç¤º")<br>
 
-	¶¯Ì¬Ê¾ÒâÍ¼£º
-	
-	![image](http://cuijiahua.com/wp-content/uploads/2017/12/algorithm_2_1.gif)
+* [æ’åºï¼ˆ5ï¼‰ï¼šç®€å•é€‰æ‹©æ’åº](http://cuijiahua.com/blog/2017/12/algorithm_5.html "æ‚¬åœæ˜¾ç¤º")<br>
 
-* [ÅÅĞò£¨3£©£ºÏ£¶ûÅÅĞò](http://cuijiahua.com/blog/2017/12/algorithm_3.html "ĞüÍ£ÏÔÊ¾")<br>
+* [æ’åºï¼ˆ6ï¼‰ï¼šå †æ’åº](http://cuijiahua.com/blog/2017/12/algorithm_6.html "æ‚¬åœæ˜¾ç¤º")<br>
 
-* [ÅÅĞò£¨4£©£º¿ìËÙÅÅĞò](http://cuijiahua.com/blog/2017/12/algorithm_4.html "ĞüÍ£ÏÔÊ¾")<br>
+* [æ’åºï¼ˆ7ï¼‰ï¼šå½’å¹¶æ’åº](http://cuijiahua.com/blog/2018/01/algorithm_7.html "æ‚¬åœæ˜¾ç¤º")<br>
 
-	¶¯Ì¬Ê¾ÒâÍ¼£º
-	
-	![image](http://cuijiahua.com/wp-content/uploads/2017/12/algorithm_4_0.gif)
-
-
-* [ÅÅĞò£¨5£©£º¼òµ¥Ñ¡ÔñÅÅĞò](http://cuijiahua.com/blog/2017/12/algorithm_5.html "ĞüÍ£ÏÔÊ¾")<br>
-
-	¶¯Ì¬Ê¾ÒâÍ¼£º
-	
-	![image](http://cuijiahua.com/wp-content/uploads/2017/12/algorithm_5_0.gif)
-
-* [ÅÅĞò£¨6£©£º¶ÑÅÅĞò](http://cuijiahua.com/blog/2017/12/algorithm_6.html "ĞüÍ£ÏÔÊ¾")<br>
-
-	¶¯Ì¬Ê¾ÒâÍ¼£º
-	
-	![image](http://cuijiahua.com/wp-content/uploads/2018/01/algorithm_6_0.gif)
-
-
-* [ÅÅĞò£¨7£©£º¹é²¢ÅÅĞò](http://cuijiahua.com/blog/2018/01/algorithm_7.html "ĞüÍ£ÏÔÊ¾")<br>
-
-	¶¯Ì¬Ê¾ÒâÍ¼£º
-	
-	![image](http://cuijiahua.com/wp-content/uploads/2018/01/algorithm_7_0.gif)
-
-* [ÅÅĞò£¨8£©£º»ùÊıÅÅĞò](http://cuijiahua.com/blog/2018/01/algorithm_7.html "ĞüÍ£ÏÔÊ¾")<br>
-
-	¶¯Ì¬Ê¾ÒâÍ¼£º
-	
-	![image](http://cuijiahua.com/wp-content/uploads/2018/01/algorithm_8_2.gif)
-	
-	
+* [æ’åºï¼ˆ8ï¼‰ï¼šåŸºæ•°æ’åº](http://cuijiahua.com/blog/2018/01/algorithm_7.html "æ‚¬åœæ˜¾ç¤º")<br>
