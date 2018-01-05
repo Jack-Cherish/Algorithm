@@ -32,4 +32,4 @@
 
 * [排序（7）：归并排序](http://cuijiahua.com/blog/2018/01/algorithm_7.html "悬停显示")<br>
 
-* [排序（8）：基数排序](http://cuijiahua.com/blog/2018/01/algorithm_7.html "悬停显示")<br>
+* [排序（8）：基数排序](http://cuijiahua.com/blog/2018/01/algorithm_8.html "悬停显示")<br>
