@@ -28,7 +28,7 @@
 
 * [排序（5）：简单选择排序](http://cuijiahua.com/blog/2017/12/algorithm_5.html "悬停显示")<br>
 
-* [排序（6）：堆排序](http://cuijiahua.com/blog/2017/12/algorithm_6.html "悬停显示")<br>
+* [排序（6）：堆排序](http://cuijiahua.com/blog/2018/01/algorithm_6.html "悬停显示")<br>
 
 * [排序（7）：归并排序](http://cuijiahua.com/blog/2018/01/algorithm_7.html "悬停显示")<br>
 
