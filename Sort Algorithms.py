@@ -3,8 +3,8 @@
 def bubbleSort(input_list):
 	'''
 	函数说明:冒泡排序（升序）
-	Author:
-		www.cuijiahua.com
+	Website:
+		http://cuijiahua.com
 	Parameters:
 		input_list - 待排序列表
 	Returns:
@@ -13,23 +13,23 @@ def bubbleSort(input_list):
 	if len(input_list) == 0:
 		return []
 	sorted_list = input_list
-	for i in range(len(sorted_list)):
+	for i in range(len(sorted_list) - 1):
 		bChanged = False
-		for j in range(i + 1, len(sorted_list))[::-1]:
-			if sorted_list[j - 1] > sorted_list[j]:
-				sorted_list[j], sorted_list[j - 1] = sorted_list[j - 1], sorted_list[j]
+		print('第%d趟排序:' % (i + 1))
+		for j in range(len(sorted_list) - 1):
+			if sorted_list[j + 1] < sorted_list[j]:
+				sorted_list[j], sorted_list[j + 1] = sorted_list[j + 1], sorted_list[j]
 				bChanged = True
+			print(sorted_list)
 		if not bChanged:
 			break
-		print('第%d趟排序' % (i + 1), end=':')
-		print(sorted_list)
 	return sorted_list
 
 def insertSort(input_list):
 	'''
 	函数说明:直接插入排序（升序）
-	Author:
-		www.cuijiahua.com
+	Website:
+		http://cuijiahua.com
 	Parameters:
 		input_list - 待排序列表
 	Returns:
@@ -53,8 +53,8 @@ def insertSort(input_list):
 def BinaryInsertSort(input_list):
 	'''
 	函数说明:二分查找插入排序（升序）
-	Author:
-		www.cuijiahua.com
+	Website:
+		http://cuijiahua.com
 	Parameters:
 		input_list - 待排序列表
 	Returns:
@@ -66,8 +66,8 @@ def BinaryInsertSort(input_list):
 	def BinarySearch(input_list, end, value):
 		'''
 		函数说明:二分查找，查找第一个大于等于value的列表索引值，不存在返回-1
-		Author:
-			www.cuijiahua.com
+		Website:
+			http://cuijiahua.com
 		Parameters:
 			input_list - 待查找列表
 			end - 查找位置的尾部
@@ -101,8 +101,8 @@ def BinaryInsertSort(input_list):
 def ShellSort(input_list):
 	'''
 	函数说明:希尔排序（升序）
-	Author:
-		www.cuijiahua.com
+	Website:
+		http://cuijiahua.com
 	Parameters:
 		input_list - 待排序列表
 	Returns:
@@ -127,8 +127,8 @@ def ShellSort(input_list):
 def QuickSort(input_list, left, right):
 	'''
 	函数说明:快速排序（升序）
-	Author:
-		www.cuijiahua.com
+	Website:
+		http://cuijiahua.com
 	Parameters:
 		input_list - 待排序列表
 	Returns:
@@ -137,8 +137,8 @@ def QuickSort(input_list, left, right):
 	def division(input_list, left, right):
 		'''
 		函数说明:根据left和right进行一次扫描，重新找到基准数
-		Author:
-			www.cuijiahua.com
+		Website:
+			http://cuijiahua.com	
 		Parameters:
 			input_list - 待排序列表
 			left - 左指针位置
@@ -165,8 +165,8 @@ def QuickSort(input_list, left, right):
 def SelectSort(input_list):
 	'''
 	函数说明:简单选择排序（升序）
-	Author:
-		www.cuijiahua.com
+	Website:
+		http://cuijiahua.com
 	Parameters:
 		input_list - 待排序列表
 	Returns:
@@ -189,8 +189,8 @@ def SelectSort(input_list):
 def HeadSort(input_list):
 	'''
 	函数说明:堆排序（升序）
-	Author:
-		www.cuijiahua.com
+	Website:
+		http://cuijiahua.com
 	Parameters:
 		input_list - 待排序列表
 	Returns:
@@ -199,8 +199,8 @@ def HeadSort(input_list):
 	def HeadAdjust(input_list, parent, length):
 		'''
 		函数说明:堆调整，调整为最大堆
-		Author:
-			www.cuijiahua.com
+		Website:
+			http://cuijiahua.com
 		Parameters:
 			input_list - 待排序列表
 			parent - 堆的父结点
@@ -245,8 +245,8 @@ def HeadSort(input_list):
 def MergeSort(input_list):
 	'''
 	函数说明:归并排序（升序）
-	Author:
-		www.cuijiahua.com
+	Website:
+		http://cuijiahua.com
 	Parameters:
 		input_list - 待排序列表
 	Returns:
@@ -255,8 +255,8 @@ def MergeSort(input_list):
 	def merge(input_list, left, mid, right, temp):
 		'''
 		函数说明:合并函数
-		Author:
-			www.cuijiahua.com
+		Website:
+			http://cuijiahua.com
 		Parameters:
 			input_list - 待合并列表
 			left - 左指针
@@ -312,8 +312,8 @@ def MergeSort(input_list):
 def RadixSort(input_list):
 	'''
 	函数说明:基数排序（升序）
-	Author:
-		www.cuijiahua.com
+	Website:
+		http://cuijiahua.com
 	Parameters:
 		input_list - 待排序列表
 	Returns:
@@ -339,8 +339,8 @@ def RadixSort(input_list):
 	def digit(num, d):
 		'''
 		函数说明:取数xxx上的第d位数字
-		Author:
-			www.cuijiahua.com
+		Website:
+			http://cuijiahua.com
 		Parameters:
 			num - 待操作的数
 			d - 第d位的数
