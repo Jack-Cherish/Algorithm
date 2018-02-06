@@ -366,7 +366,7 @@ def RadixSort(input_list):
 		for i in range(0, length):
 			count[digit(sorted_list[i], d)] += 1
 
-		for i in range(1, length):
+		for i in range(1, 10):
 			count[i] += count[i - 1]
 
 		for i in range(0, length)[::-1]:
