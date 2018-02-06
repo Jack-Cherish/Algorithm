@@ -269,7 +269,7 @@ def MergeSort(input_list):
 		j = mid + 1
 		k = 0
 
-		while i <= left and j <= right:
+		while i <= mid and j <= right:
 			if input_list[i] <= input_list[j]:
 				temp[k] = input_list[i]
 				i += 1
