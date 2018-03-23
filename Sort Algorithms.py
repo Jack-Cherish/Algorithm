@@ -114,7 +114,7 @@ def ShellSort(input_list):
 	n = len(sorted_list)
 	gap = n // 2
 	while gap > 0:
-		gap //= 2
+		
 		for i in range(gap, len(sorted_list)):
 			temp = sorted_list[i]
 			j = i - gap
@@ -122,6 +122,7 @@ def ShellSort(input_list):
 				sorted_list[j + gap] = sorted_list[j]
 				j -= gap
 			sorted_list[j + gap] = temp
+		gap //= 2
 	return sorted_list
 
 def QuickSort(input_list, left, right):
