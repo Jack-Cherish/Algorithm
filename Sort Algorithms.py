@@ -348,7 +348,7 @@ def RadixSort(input_list):
 			取数结果
 		'''	
 		p = 1
-		while d > 0:
+		while d > 1:
 			d -= 1
 			p *= 10
 		return num // p % 10
